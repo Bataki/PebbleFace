@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "zurume",
+    "longName": "MyWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MyWatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "7762140b-ca19-49a6-995a-7fa146728b63",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
